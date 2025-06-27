@@ -12,6 +12,10 @@ baseurl: /webmachine
 title: webmachine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
+exclude:
+  - README.md
+  - LICENSE
+
 machina:
   name: Thingking-Machine,
   instructions_file: thingking.txt
